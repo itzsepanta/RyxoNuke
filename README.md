@@ -14,8 +14,6 @@
 
 **Ryxo Nuke** is a Python CLI tool for **Discord server administration** — channel & role management, member tools, server info, and moderation helpers — all through a beautiful Rich terminal interface.
 
-> **🛠️ Part of the VOID ecosystem →** [**Void-Tools v2.0**](https://github.com/V0id-v2/Void-Tools-v2.0)
-
 ---
 
 ## ✨ Features
