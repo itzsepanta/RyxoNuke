@@ -34,8 +34,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ryxo-nuke.git
-cd ryxo-nuke
+git clone https://github.com/itzsepanta/RyxoNuke.git
+cd RyxoNuke
 
 # Run installation scripts (Windows)
 python_installer.bat     # Checks Python installation
